@@ -1,4 +1,4 @@
-# Lihgt Up: Board State
+# Light Up: Board State
 This question is about a game called Light Up. A board of Light Up consists of a N×N 2D square grid of black and white squares, where N is a positive integer. Lamps can be placed on white squares. Lamps illuminate yellow every square in the same row or column until they hit a black cell or the edge of the board.
 
 
